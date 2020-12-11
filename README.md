@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/sweetening/sweetening/header.png "Header")](https://www.sanjawetzel.com/)
 
 <!--
 **sweetening/sweetening** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
