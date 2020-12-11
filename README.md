@@ -1,4 +1,6 @@
-<img src="https://github.com/sweetening/sweetening/blob/main/header.png?raw=true" alt="www.sanjawetzel.com" />
+[![Header](https://github.com/sweetening/sweetening/blob/main/header.png?raw=tru "Header")](http://www.sanjawetzel.com)
+
+<!-- <img src="https://github.com/sweetening/sweetening/blob/main/header.png?raw=true" alt="www.sanjawetzel.com" />
 
 <!--
 **sweetening/sweetening** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
