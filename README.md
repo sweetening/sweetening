@@ -16,6 +16,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetening&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 <h2 align="center">Let's Connect! 📩
+  <br>
   <img src="https://thumbs.gfycat.com/RecentSaneGull-size_restricted.gif" />
 </h2>
   <p align="center">
