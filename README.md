@@ -9,11 +9,13 @@
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b18a4d1e9b86c8987dc0e5aa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b18a4d1e9b86c8987dc0e5aa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/css3%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width:100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c567bc8fea35a350406f3ad80e2ec6dd76dea5f756187908f35322bbbc8bc77c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702532302d2532333536334437432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/c567bc8fea35a350406f3ad80e2ec6dd76dea5f756187908f35322bbbc8bc77c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702532302d2532333536334437432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&amp;style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width:100%;"></a>
    </p>
-  <h2 align="center">About Me <img src="https://i.pinimg.com/originals/b0/33/f0/b033f09f3fe84e3899009a69acec44cc.gif" /></h2>
+  <h2 align="center">About Me</h2>
+  <br>
+  <img align="center" src="https://i.pinimg.com/originals/b0/33/f0/b033f09f3fe84e3899009a69acec44cc.gif" />
   <p align="center">Leipzig-based software developer 💡 with a fullstack education and a frontend focus 🎨 and a passion for creating scaleable, clean, beautiful digital products. She/her pronouns 🏄🏼‍♀️ Raised in California but left her heart in NYC 🗽 Former opera singer, beer enthusiast, cat mom, and avid cyclist traveling the world on 2 wheels. 🚴🏼‍♀️</p>
   
-  📌[![sweetening's github stats](https://github-readme-stats.vercel.app/api?username=sweetening&show_icons=true&theme=tokyonight)](https://github.com/sweetening/github-readme-stats)
-  📌[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetening&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  ❗️[![sweetening's github stats](https://github-readme-stats.vercel.app/api?username=sweetening&show_icons=true&theme=tokyonight)](https://github.com/sweetening/github-readme-stats)
+  ‼️ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetening&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 <h2 align="center">Let's Connect! 📩</h2>
   <br>
