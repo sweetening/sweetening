@@ -12,7 +12,7 @@
   <h2>About Me</h2><img src="https://i.pinimg.com/originals/b0/33/f0/b033f09f3fe84e3899009a69acec44cc.gif" />
   <p>Leipzig-based software developer 💡 with a fullstack education and a frontend focus 🎨 and a passion for creating scaleable, clean, beautiful digital products. She/her pronouns 🏄🏼‍♀️ Raised in California but left her heart in NYC 🗽 Former opera singer, beer enthusiast, cat mom, and avid cyclist traveling the world on 2 wheels. 🚴🏼‍♀️</p>
   
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sweetening&show_icons=true&theme=tokyonight)](https://github.com/sweetening/github-readme-stats)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweetening&show_icons=true&theme=tokyonight" />
+  [![sweetening's github stats](https://github-readme-stats.vercel.app/api?username=sweetening&show_icons=true&theme=synthwave)](https://github.com/sweetening/github-readme-stats)
   
   <h2>Let's Connect! 📩</h2><img src="https://thumbs.gfycat.com/RecentSaneGull-size_restricted.gif" />
   <p>
