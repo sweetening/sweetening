@@ -16,6 +16,7 @@
   <br>Leipzig-based software developer 💡 with a fullstack education and a frontend focus 🎨 and a passion for creating scaleable, clean, beautiful digital products. She/her pronouns 🏄🏼‍♀️ Raised in California but left her heart in NYC 🗽 Former opera singer, beer enthusiast, cat mom, and avid cyclist traveling the world on 2 wheels. 🚴🏼‍♀️
   
   [![sweetening's github stats](https://github-readme-stats.vercel.app/api?username=sweetening&show_icons=true&theme=tokyonight)](https://github.com/sweetening/github-readme-stats)
+  <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetening&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   </p>
   
