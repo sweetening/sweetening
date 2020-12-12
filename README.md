@@ -12,13 +12,11 @@
   <h2>About Me</h2><img src="https://i.pinimg.com/originals/b0/33/f0/b033f09f3fe84e3899009a69acec44cc.gif" />
   <p>Leipzig-based software developer 💡 with a fullstack education and a frontend focus 🎨 and a passion for creating scaleable, clean, beautiful digital products. She/her pronouns 🏄🏼‍♀️ Raised in California but left her heart in NYC 🗽 Former opera singer, beer enthusiast, cat mom, and avid cyclist traveling the world on 2 wheels. 🚴🏼‍♀️</p>
   
-  <h2>Let's Connect</h2><img src="https://thumbs.gfycat.com/RecentSaneGull-size_restricted.gif" />
+  <h2>Let's Connect! 📩</h2><img src="https://thumbs.gfycat.com/RecentSaneGull-size_restricted.gif" />
   <p align="center">
-    <a href="https://www.linkedin.com/in/sanja-wetzel/" rel="nofollow"><img
-    src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
-    alt="Linkedin"
-    data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
-    style="max-width:100%;"></a>
+    <a href="https://www.linkedin.com/in/sanja-wetzel/" rel="nofollow"><img height="30"
+    src="https://github.com/stephenajulu/WaylonWalker/raw/main/icon/linkedin.png?raw=true" style="max-width:100%;"></a>
+
        <a target="_blank" rel="noopener noreferrer"
       href="https://github.com/sweetening"><img
         src="https://camo.githubusercontent.com/f6dc9ed767895e706cfd457f0c12b516d8049619bba0e6995b6308ff26f0cfd2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333130303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"
