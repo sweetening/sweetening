@@ -17,7 +17,7 @@
     
   <h2 align="center">Github Stats 📊</h2>
   
-  [![sweetening's github stats](https://github-readme-stats.vercel.app/api?username=sweetening&show_icons=true&theme=tokyonight)](https://github.com/sweetening/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetening&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![sweetening's github stats](https://github-readme-stats.vercel.app/api?username=sweetening&show_icons=true&theme=tokyonight)](https://github.com/sweetening/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetening&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   </p>
   
 <h2 align="center">Let's Connect! 📩</h2>
