@@ -13,7 +13,7 @@
   <br>
   <p align="center">
   <img src="https://i.pinimg.com/originals/b0/33/f0/b033f09f3fe84e3899009a69acec44cc.gif" />
-  <br>Leipzig-based software developer 💡 with a fullstack education and a frontend focus 🎨 and a passion for creating scaleable, clean, beautiful digital products. She/her pronouns 🏄🏼‍♀️ Raised in California but left her heart in NYC 🗽 Former opera singer, beer enthusiast, cat mom, and avid cyclist traveling the world on 2 wheels. 🚴🏼‍♀️
+  <br>Leipzig-based software developer 💡 with a fullstack education and a frontend focus 🎨 and a passion for creating scalable, clean, beautiful digital products. She/her pronouns 🏄🏼‍♀️ Raised in California but left her heart in NYC 🗽 Former opera singer, beer enthusiast, cat mom, and avid cyclist traveling the world on 2 wheels. 🚴🏼‍♀️
     
   <h2 align="center">Github Stats 📊</h2>
   
