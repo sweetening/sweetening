@@ -1,6 +1,3 @@
-  <img src="https://i.pinimg.com/originals/b0/33/f0/b033f09f3fe84e3899009a69acec44cc.gif" />
-  <br>Leipzig-based software developer 💡 with a fullstack education and a frontend focus 🎨 and a passion for creating scalable, clean, beautiful digital products
-
 <!--
 **sweetening/sweetening** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
